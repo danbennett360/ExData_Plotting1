@@ -34,11 +34,11 @@ Two transformations were performed on the data:
 
 Four scripts were produced to create the data.  In addition a <b>Makefile</b> has been supplied to allow execution of the four scripts.
 <ul>
-   <li> [plot1.R](https://github.com/danbennett360/ExData_Plotting1/plot1.R)
-   <li> [plot2.R](https://github.com/danbennett360/ExData_Plotting1/plot2.R)
-   <li> [plot3.R](https://github.com/danbennett360/ExData_Plotting1/plot3.R)
-   <li> [plot4.R](https://github.com/danbennett360/ExData_Plotting1/plot4.R)
-   <li> [Makefile](https://github.com/danbennett360/ExData_Plotting1/Makefile)
+   <li> [plot1.R](plot1.R)
+   <li> [plot2.R](plot2.R)
+   <li> [plot3.R](plot3.R)
+   <li> [plot4.R](plot4.R)
+   <li> [Makefile](Makefile)
 </ul>
 
 ## Output
