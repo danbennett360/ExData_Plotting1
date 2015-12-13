@@ -1,3 +1,7 @@
+Note:  Please see the CodeBook.md file for assignment documentation.
+
+The original "ReadMe.md"
+
 ## Introduction
 
 This assignment uses data from
